@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&family=Montserrat:wght@100&display=swap');
+
 body{
-    background: red;
+    background: blanchedalmond;
     margin: 20px;
     padding: 30px;
+}
+h1 {
+    font-family: 'Domine', serif;
+}
+
+ul, ol {
+    display: inline-block;
 }
